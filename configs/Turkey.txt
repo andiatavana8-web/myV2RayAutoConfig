@@ -1,7 +1,6 @@
 ss://2e409cdc-d0c9-4fc0-b285-9371034b8002@five.paliss.ir:443?security=none&encryption=none&headerType=none&type=tcp#TR🇹🇷
 ss://4ce5fb6e-8245-4af7-8041-8e2964fc8577@185.143.234.122:443?encryption=none&security=tls&type=ws&headerType=none&path=%2FH%3Fed%3D2560&host=turk.villy-tun.ir&sni=turk.villy-tun.ir&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#TR🇹🇷
 ss://53feb5dd-9bb2-44ff-80ec-4d00debf1de4@solar.appleseraj.ir:2083?path=%3Fed%3D2048&security=tls&encryption=none&insecure=0&host=nurenbbbb.appleseraj.ir&fp=chrome&type=ws&allowInsecure=0&sni=nurenbbbb.appleseraj.ir#TR🇹🇷
-ss://954ee007-ed27-42cc-bfa8-7e104a2a4279@down.baguvix.ir:8855?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#👉🆔@v2ray_configs_pool📡🇹🇷®️Turkey©️Istanbul🅿️ping:141.4ms
 ss://98144540-9699-42b2-bac7-e1c243310ae7@turk1.appcodes.ir:2026?security=reality&encryption=none&pbk=1pZz4shnro2xyuXc7MMSFseBbbuy1weo2QLclTDJ8Fo&headerType=none&fp=firefox&type=tcp&sni=yahoo.com&sid=db4a993c8bb355ba#REALITY|TR🇹🇷
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozUTdVMTZ5R1kwSngxeUdRZTlYdHpw@185.39.204.161:33563#TR%F0%9F%87%B9%F0%9F%87%B7+%7C+185.39.204.161-33563+%7C+186.3ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5UmR4dkszMmdjS3E4eHhOZ3V3VTk5@62.60.233.226:62763#TR%F0%9F%87%B9%F0%9F%87%B7+%7C+62.60.233.226-62763+%7C+181.58ms
@@ -28,7 +27,6 @@ ss://fc7f5780-4c4e-11f1-a3f8-b58432c62d9c@jsv-ir2.randino.ir:2?security=&encrypt
 vless://2e409cdc-d0c9-4fc0-b285-9371034b8002@five.paliss.ir:443?security=none&encryption=none&headerType=none&type=tcp#TR🇹🇷
 vless://4ce5fb6e-8245-4af7-8041-8e2964fc8577@185.143.234.122:443?encryption=none&security=tls&type=ws&headerType=none&path=%2FH%3Fed%3D2560&host=turk.villy-tun.ir&sni=turk.villy-tun.ir&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#TR🇹🇷
 vless://53feb5dd-9bb2-44ff-80ec-4d00debf1de4@solar.appleseraj.ir:2083?path=%3Fed%3D2048&security=tls&encryption=none&insecure=0&host=nurenbbbb.appleseraj.ir&fp=chrome&type=ws&allowInsecure=0&sni=nurenbbbb.appleseraj.ir#TR🇹🇷
-vless://954ee007-ed27-42cc-bfa8-7e104a2a4279@down.baguvix.ir:8855?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#👉🆔@v2ray_configs_pool📡🇹🇷®️Turkey©️Istanbul🅿️ping:141.4ms
 vless://98144540-9699-42b2-bac7-e1c243310ae7@turk1.appcodes.ir:2026?security=reality&encryption=none&pbk=1pZz4shnro2xyuXc7MMSFseBbbuy1weo2QLclTDJ8Fo&headerType=none&fp=firefox&type=tcp&sni=yahoo.com&sid=db4a993c8bb355ba#REALITY|TR🇹🇷
 vless://ZoRoVPN@203.202.232.11:36068/?type=ws&encryption=none&host=Play.google.com&path=%2FZoRoVpn#%F0%9F%87%B9%F0%9F%87%B7TR-%F0%9F%9A%80%40VPNine1%20%282%29
 vless://a16c9e6e4be147829361ba54ec815259@62.133.63.167:8443?encryption=none&type=xhttp&path=%2Fx&security=reality&sni=ya.ru&pbk=8e399MgSjvh2ap5opo7EK0Gv_gPagXM-Icku3npTLkA&sid=aabbccdd&fp=random#REALITY|TR🇹🇷
