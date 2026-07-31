@@ -268,7 +268,6 @@ trojan://WG39087154@89.39.70.49:443?security=tls&sni=eager-louse.rooster465.auto
 trojan://XG59623478@193.169.239.76:443?fp=chrome&sni=renewed-chigger.rooster465.autos#NL🇳🇱
 trojan://XG59623478@renewed-chigger.rooster465.autos:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#NL🇳🇱
 trojan://XG59623478@renewed-chigger.rooster465.autos:443?security=tls&sni=renewed-chigger.rooster465.autos#%F0%9F%87%B3%F0%9F%87%B1NL-79.133.126.136-0496
-trojan://c206d543-023d-46cc-9d5a-1f0f2fc16323@188.164.248.122:443?allowInsecure=1&sni=space.byu.id.yxls.eu.cc#%E8%8D%B7%E5%85%B0%E4%B8%A8yoyapai.com%5Cr
 trojan://c206d543-023d-46cc-9d5a-1f0f2fc16323@188.164.248.122:443?sni=space.byu.id.yxls.eu.cc#%F0%9F%87%B3%F0%9F%87%B1NL%E8%8D%B7%E5%85%B0
 trojan://f6a0a650-306e-11ee-b692-1239d0255272@51.158.146.183:443?security=tls&sni=Speedtest.net#%F0%9F%87%B3%F0%9F%87%B1NL-51.158.146.183-8143
 trojan://humanity@104.17.131.88:443/?type=ws&host=www.gossipglove.com&path=%2Fassignment&security=tls&sni=www.gossipglove.com&fp=chrome#%3E%3E%40oneclickvpnkeys%3A%3ANL
