@@ -276,14 +276,12 @@ trojan://IL37892054@engaging-toucan.rooster465.autos:443?security=tls#%F0%9F%87%
 trojan://ND91608427@3.124.187.220:443?fp=chrome&sni=rapid-firefly.rooster465.autos#DE🇩🇪
 trojan://ND91608427@3.64.59.246:443?allowInsecure=0&sni=gentle-raptor.rooster465.autos#DE-3.64.59.246-0251
 trojan://ND91608427@3.64.59.246:443?fp=chrome&sni=gentle-raptor.rooster465.autos#DE🇩🇪
-trojan://ND91608427@3.64.59.246:443?security=tls&sni=gentle-raptor.rooster465.autos#%F0%9F%87%A9%F0%9F%87%AADE-3.64.59.246-0198
 trojan://ND91608427@3.64.59.246:443?security=tls&sni=gentle-raptor.rooster465.autos#%F0%9F%87%A9%F0%9F%87%AADE-3.64.59.246-0251
 trojan://ND91608427@3.68.79.32:443?fp=chrome&sni=large-baboon.rooster465.autos#DE🇩🇪
 trojan://ND91608427@54.93.54.137:443?sni=informed-alpaca.rooster465.autos#DE🇩🇪
 trojan://ND91608427@54.93.65.133:443?fp=chrome&sni=next-turkey.rooster465.autos#DE🇩🇪
 trojan://ND91608427@gentle-raptor.rooster465.autos:443#DE🇩🇪
 trojan://ND91608427@gentle-raptor.rooster465.autos:443?allowInsecure=0&sni=gentle-raptor.rooster465.autos#DE-3.64.59.246-0253
-trojan://ND91608427@gentle-raptor.rooster465.autos:443?security=tls&sni=gentle-raptor.rooster465.autos#%F0%9F%87%A9%F0%9F%87%AADE-3.64.59.246-0202
 trojan://ND91608427@gentle-raptor.rooster465.autos:443?security=tls&sni=gentle-raptor.rooster465.autos#%F0%9F%87%A9%F0%9F%87%AADE-3.64.59.246-0253
 trojan://ND91608427@informed-alpaca.rooster465.autos:443#DE🇩🇪
 trojan://ND91608427@informed-alpaca.rooster465.autos:443?security=tls#%F0%9F%87%A9%F0%9F%87%AADE-54.93.54.137-6030
@@ -291,7 +289,6 @@ trojan://ND91608427@large-baboon.rooster465.autos:443#DE🇩🇪
 trojan://ND91608427@large-baboon.rooster465.autos:443/?type=tcp&security=tls&sni=large-baboon.rooster465.autos&allowInsecure=1#德国
 trojan://ND91608427@large-baboon.rooster465.autos:443?security=tls#%F0%9F%87%A9%F0%9F%87%AADE-3.68.79.32-6191
 trojan://ND91608427@next-turkey.rooster465.autos:443#DE🇩🇪
-trojan://ND91608427@next-turkey.rooster465.autos:443?security=tls&sni=next-turkey.rooster465.autos#%F0%9F%87%A9%F0%9F%87%AADE-54.93.65.133-0221
 trojan://ND91608427@next-turkey.rooster465.autos:443?security=tls&sni=next-turkey.rooster465.autos#%F0%9F%87%A9%F0%9F%87%AADE-54.93.65.133-0282
 trojan://ND91608427@rapid-firefly.rooster465.autos:443#DE🇩🇪
 trojan://ND91608427@rapid-firefly.rooster465.autos:443/?type=tcp&security=tls&sni=rapid-firefly.rooster465.autos&allowInsecure=1#德国
