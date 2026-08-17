@@ -2497,6 +2497,7 @@ trojan://AE62539071@15.237.214.103:443?allowInsecure=1&sni=tough-hermit.rooster4
 trojan://AE62539071@15.237.214.103:443?allowInsecure=1&sni=tough-hermit.rooster465.autos#FR🇫🇷
 trojan://AE62539071@15.237.214.103:443?allowInsecure=1&sni=tough-hermit.rooster465.autos#🌐سرور
 trojan://AE62539071@15.237.214.103:443?allowInsecure=1&sni=tough-hermit.rooster465.autos#🦁28@oneclickvpnkeys
+trojan://AE62539071@15.237.214.103:443?sni=tough-hermit.rooster465.autos&type=tcp&fp=chrome#
 trojan://AE62539071@18.179.198.30:443?sni=glowing-iguana.rooster465.autos&type=tcp&fp=chrome#
 trojan://AE62539071@18.179.200.238:443?sni=safe-frog.rooster465.autos&type=tcp&fp=chrome#
 trojan://AE62539071@18.181.118.40:443?sni=definite-panda.rooster465.autos&type=tcp&fp=chrome#
@@ -4327,6 +4328,7 @@ trojan://FH72359861@15.237.112.48:443?allowInsecure=1&sni=smiling-fowl.rooster46
 trojan://FH72359861@15.237.112.48:443?sni=smiling-fowl.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#
 trojan://FH72359861@15.237.112.48:443?sni=smiling-fowl.rooster465.autos&fp=chrome&type=tcp&path=%2f#
 trojan://FH72359861@15.237.112.48:443?sni=smiling-fowl.rooster465.autos&type=tcp&fp=chrome#
+trojan://FH72359861@15.237.214.103:443?sni=tough-hermit.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#
 trojan://FH72359861@15.237.214.103:443?sni=tough-hermit.rooster465.autos&fp=chrome&type=tcp&path=%2f#
 trojan://FH72359861@16.146.11.254:443#
 trojan://FH72359861@16.146.11.254:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=tl…#
@@ -5893,6 +5895,7 @@ trojan://ND91608427@adjusted-labrador.rooster465.autos:443?security=tls&sni=adju
 trojan://ND91608427@adjusted-labrador.rooster465.autos:443?security=tls&sni=adjusted-labrador.rooster465.autos#EPODONIOS
 trojan://ND91608427@adjusted-labrador.rooster465.autos:443?sni=adjusted-labrador.rooster465.autos&fp=chrome&type=tcp&path=%2f#
 trojan://ND91608427@better-molly.rooster465.autos:443?allowInsecure=0#JP-13.231.232.184-0201
+trojan://ND91608427@better-molly.rooster465.autos:443?allowInsecure=1&sni=better-molly.rooster465.autos#
 trojan://ND91608427@better-molly.rooster465.autos:443?allowInsecure=1&sni=better-molly.rooster465.autos#JP_25%7C85KB%2Fs%7CA001-260618%2001
 trojan://ND91608427@better-molly.rooster465.autos:443?allowInsecure=1&sni=better-molly.rooster465.autos#JP_44%7C113KB%2Fs%7CA004-260618%2001
 trojan://ND91608427@better-molly.rooster465.autos:443?security=tls#
@@ -6212,6 +6215,7 @@ trojan://ND91608427@sensible-mongrel.rooster465.autos:443?security=tls&sni=sensi
 trojan://ND91608427@skilled-lioness.rooster465.autos:443?security=tls&sni=skilled-lioness.rooster465.autos#
 trojan://ND91608427@skilled-lioness.rooster465.autos:443?sni=skilled-lioness.rooster465.autos&type=tcp&fp=chrome#IE🇮🇪
 trojan://ND91608427@social-mutt.rooster465.autos:443?allowInsecure=0&sni=social-mutt.rooster465.autos#JP-54.249.34.120-0197
+trojan://ND91608427@social-mutt.rooster465.autos:443?allowInsecure=1&sni=social-mutt.rooster465.autos#
 trojan://ND91608427@social-mutt.rooster465.autos:443?allowInsecure=1&sni=social-mutt.rooster465.autos#JP_28%7C239KB%2Fs%7CA001-260618%2001
 trojan://ND91608427@social-mutt.rooster465.autos:443?allowInsecure=1&sni=social-mutt.rooster465.autos#JP_69%7C110KB%2Fs%7CA004-260618%2001
 trojan://ND91608427@social-mutt.rooster465.autos:443?allowInsecure=1&sni=social-mutt.rooster465.autos#JP🇯🇵
