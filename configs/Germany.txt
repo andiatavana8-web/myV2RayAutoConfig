@@ -17,15 +17,14 @@ hysteria2://53c76647-14d1-4df5-99cb-be99ad2e6bd9@fr131.mechvpn.online:443?insecu
 hysteria2://53c76647-14d1-4df5-99cb-be99ad2e6bd9@fr131.mechvpn.online:443?insecure=1&sni=fr131.mechvpn.online#9%7C%F0%9F%87%A9%F0%9F%87%AA%7CDE%7C%40wxgqlfx%7C223
 hysteria2://53c76647-14d1-4df5-99cb-be99ad2e6bd9@fr131.mechvpn.online:443?security=tls&alpn=h3&insecure=1&sni=fr131.mechvpn.online#🇩🇪|DE|@wxgqlfx|223
 hysteria2://55b71f97202647049ce999646de57c50@f1b.wareznet.ru:8444?security=tls&sni=f1b.wareznet.ru#%E5%BE%B7%E5%9B%BD+V2CROSS.COM
+hysteria2://Krab9Hyst2_Rk7pQ2xL@de2.vpn.legendaah.xyz:36723/?insecure=1&sni=www.cloudflare.com#Germany%20%F0%9F%87%A9%F0%9F%87%AA
 hysteria2://c175d956-d1f4-4c53-b2b1-8493bf8529c6@87.120.84.189:443?sni=de1.apexvpn.space#%E5%BE%B7%E5%9B%BD
 hysteria2://c4a4d98d-8d64-4e76-bc50-096b07d82382@139.28.98.26:443?insecure=1&sni=nl-hysteria.boxypn.com#%F0%9F%87%B3%F0%9F%87%B1%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E8%8D%B7%E5%85%B0%2008
 hysteria2://d1224950-ffab-4b9a-8696-431b40a6cfbd@bel-03.node.lumixnet.com:443?sni=bel-03.node.lumixnet.com#%E5%BE%B7%E5%9B%BD%20%231
-hysteria2://dsfa_k0123WFzerrf_kZ3490VNb03J_m30_s@194.180.188.21:8443/?insecure=1&sni=keyhop-offshore.roxa.org#Germany%20%F0%9F%87%A9%F0%9F%87%AA
 hysteria2://dsfa_k0123WFzerrf_kZ3490VNb03J_m30_s@194.180.188.21:8443?insecure=1&sni=keyhop-offshore.roxa.org#%7CDE%7C%40wxgqlfx%7C182
 hysteria2://dsfa_k0123WFzerrf_kZ3490VNb03J_m30_s@194.180.188.21:8443?insecure=1&sni=keyhop-offshore.roxa.org#%F0%9F%87%A9%F0%9F%87%AA%7CDE%7C%40wxgqlfx%7C182
 hysteria2://dsfa_k0123WFzerrf_kZ3490VNb03J_m30_s@194.180.188.21:8443?insecure=1&sni=keyhop-offshore.roxa.org#8%2C9%7C%F0%9F%87%AA%7CDE%7C%40wxgqlfx%7C182
 hysteria2://dsfa_k0123WFzerrf_kZ3490VNb03J_m30_s@194.180.188.21:8443?security=tls&insecure=1&sni=keyhop-offshore.roxa.org#🇩🇪|DE|@wxgqlfx|182
-hysteria2://mkL3AfdSZIpTWRB9TcWPn9vywPGN89MRHg3ToRDj@de.1.23.h2corp.org:443/?insecure=1&sni=germany3.h2corp.local#Germany%20%F0%9F%87%A9%F0%9F%87%AA
 hysteria2://mkL3AfdSZIpTWRB9TcWPn9vywPGN89MRHg3ToRDj@de.1.23.h2corp.org:443?insecure=1&sni=germany3.h2corp.local#%E5%BE%B7%E5%9B%BD%20%232
 hysteria2://mkL3AfdSZIpTWRB9TcWPn9vywPGN89MRHg3ToRDj@de.1.23.h2corp.org:443?insecure=1&sni=germany3.h2corp.local#8%7C%E5%BE%B7%E5%9B%BD%20%231
 hysteria2://umnDU7jgFYUjpVjVM2sW9HL0rRYLJNgzVwRu2HzWEhyZKkRx@de.1.22.washing.help:443?insecure=1&alpn=h3&sni=germany1.h2corp.local#%F0%9F%87%A9%F0%9F%87%AA%7CDE%7C%40wxgqlfx%7C213
