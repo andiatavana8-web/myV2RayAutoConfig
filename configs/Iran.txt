@@ -1,4 +1,5 @@
 hysteria2://39679f52-1d9a-4843-9c1d-7f9c0ee9491e@edge.nordcache.ru:9443?insecure=1&security=tls&sni=edge.nordcache.ru#%E4%BC%8A%E6%9C%97+V2CROSS.COM
+hysteria2://5a7655f8-969e-4738-a7f8-12f327dd1b65@edge.nordcache.ru:9443?insecure=1&security=tls&sni=edge.nordcache.ru#%E4%BC%8A%E6%9C%97+V2CROSS.COM
 hysteria2://StableInternet@ptserv.accuratenetworkchecker.ir:36896?insecure=0&sni=lms22.gelzaro.ir&obfs=salamander&obfs-password=hmvyfx1tpnz6pp3k#%40Iran_v2ray1
 hysteria2://StableInternet@ptserv.accuratenetworkchecker.ir:36896?security=tls&obfs=salamander&obfs-password=hmvyfx1tpnz6pp3k&insecure=0&sni=lms22.gelzaro.ir#@Iran_v2ray1
 ss://01ea3b87-b7b1-4aef-b24a-9c43fbd3b26f@fr-tx.sbrf-cdn342.ru:443?encryption=none&flow=xtls-rprx-vision-udp443&security=tls&sni=sub.sbrf-cdn342.ru&type=tcp&headerType=none#Brayirani
